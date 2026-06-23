@@ -1,2 +1,3 @@
-# Algoritmos-e-Logica-de-Programacao
-Repositório para alocar todos os códigos escritos durante a realização do curso de Algoritmos e Lógica de Programação do Professor Nelio Alves na plataforma da Udemy
+# Algoritmos_Logica_Programacao
+Repositório com o intuito de alocar todos os códigos a escritos durante o aprendizado do curso do Professor Nelio Alves
+O curso foi realizado na plataforma da Udemy nos períodos de abril a junho de 2026
